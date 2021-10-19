@@ -47,7 +47,7 @@ abline(fit)
 
 # attempting conflict 
 
-conflict <- TRUE #dummy code 2.0
+conflict <- TRUE #dummy code 2.0 it doesn't matter what this is
 
 
 
